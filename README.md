@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/shuttle-hq/shuttle/master/assets/logo-rectangle-transparent.png)
 # Awesome Shuttle
 
 An awesome list of Shuttle-hosted projects and resources that users can add to.
