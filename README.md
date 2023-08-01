@@ -57,7 +57,13 @@ Plugins for Shuttle that users have made.
 
 Unofficial Shuttle tutorials.
 
-- [Building a SaaS with Rust](https://joshmo.bearblog.dev/lets-build-a-saas-with-rust/) - A guide for writing a SaaS backend in Rust. 
+- [Building a SaaS with Rust](https://joshmo.bearblog.dev/lets-build-a-saas-with-rust/) - A guide for writing a SaaS backend in Rust.
+
+## Shuttle is cool, but have you tried Shuttle _and_ ... ?
+
+Some tools aren't just used for Shuttle, but work _really_ well when paired with Shuttle:
+
+- [Utoipa](https://docs.rs/utoipa/latest/utoipa/) - Autogenerate an OpenAPI spec and API documentation from your existing code and docstrings. Can be used with [`utoipa-swagger-ui`](https://docs.rs/utoipa-swagger-ui/3.1.4/utoipa_swagger_ui/) to also generate a nice web UI ([example](https://eskom-calendar-api.shuttleapp.rs/)) that documents your API and lets users test out queries without needing a terminal.
 
 ## License
 
