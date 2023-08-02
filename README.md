@@ -45,6 +45,7 @@ A list of cool web-based applications that have been built on Shuttle.
 - [Kitsune](https://github.com/aumetra/kitsune/tree/aumetra/shuttle) - A self-hostable ActivityPub-based social media server, like Mastodon. Uses Vue as a frontend.
 - [Rustypaste](https://github.com/orhun/rustypaste) - A simple web service that lets you host and share long plain text. 
 - [Github API Dashboard](https://github.com/marc2332/ghboard) - A dashboard that tracks your Github contributions. Uses Dioxus as a frontend, powered by the Github GraphQL API. [(Demo)](https://ghboard.shuttleapp.rs/user/demonthos)
+- [no-more-json](https://github.com/beyarkay/no-more-json) - Fed up with massive JSON objects? Just give `no-more-json` an API endpoint and a [`jq`](https://jqlang.github.io/jq/) query. `no-more-json` will apply that query to the JSON returned by the endpoint, and give you the (much smaller) result.
 
 ## Libraries
 
