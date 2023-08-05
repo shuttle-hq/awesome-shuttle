@@ -58,7 +58,8 @@ Plugins for Shuttle that users have made.
 
 Unofficial Shuttle tutorials.
 
-- [Building a SaaS with Rust](https://joshmo.bearblog.dev/lets-build-a-saas-with-rust/) - A guide for writing a SaaS backend in Rust. 
+- [Building a SaaS with Rust](https://joshmo.bearblog.dev/lets-build-a-saas-with-rust/) - A guide for writing a SaaS backend in Rust.
+- [Building a Movie Collection Manager](https://bcnrust.github.io/devbcn-workshop/)  - Full Stack Workshop with Rust, Actix, SQLx, Dioxus, and Shuttle.
 
 ## License
 
