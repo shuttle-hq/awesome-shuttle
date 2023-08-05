@@ -31,6 +31,7 @@ Official Shuttle tutorials to help you write more competent services.
 - [Writing a REST HTTP service with Axum](https://docs.shuttle.rs/tutorials/rest-http-service-with-axum) - A guide on how to write a competent HTTP service in Axum that covers static files, cookies, middleware and more.
 - [Writing a Custom Service](https://docs.shuttle.rs/tutorials/custom-service) - A guide on how to write a web service that implements multiple services (so for example, a Discord bot and router that you can potentially extend and add some background tasks to)
 
+
 ## Workshops
 
 Shuttle workshops that have been held in the past. 
@@ -53,6 +54,7 @@ Plugins for Shuttle that users have made.
 
 - [shuttle-diesel-async](https://github.com/aumetra/shuttle-diesel-async) - A plugin for Shuttle that lets you use Diesel as the provided connection instead of SQLx.
 - [shuttle-seaorm](https://github.com/joshua-mo-143/shuttle-seaorm) - A plugin for Shuttle that lets you use SeaORM as the provided connection instead of SQLx.
+- [shuttle-env-vars](https://github.com/robertohuertasm/shuttle-env-vars) - An alternative to [Shuttle Secrets](https://docs.shuttle.rs/resources/shuttle-secrets) that allows you to use `.env` files in your Shuttle projects.
 
 ## Resources
 
