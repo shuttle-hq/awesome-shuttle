@@ -48,6 +48,12 @@ A list of cool web-based applications that have been built on Shuttle.
 - [Github API Dashboard](https://github.com/marc2332/ghboard) - A dashboard that tracks your Github contributions. Uses Dioxus as a frontend, powered by the Github GraphQL API. [(Demo)](https://ghboard.shuttleapp.rs/user/demonthos)
 - [no-more-json](https://github.com/beyarkay/no-more-json) - Fed up with massive JSON objects? Just give `no-more-json` an API endpoint and a [`jq`](https://jqlang.github.io/jq/) query. `no-more-json` will apply that query to the JSON returned by the endpoint, and give you the (much smaller) result.
 
+## Templates
+
+Templates, that can be used as starters for websites or apps, hosted on Shuttle
+
+- [shuttle-template-yew](https://github.com/sentinel1909/shuttle-template-yew) - A template which acts as a starting point for a web frontend using the Yew framework. The frontend files are served with an Axum web server.
+
 ## Libraries
 
 Plugins for Shuttle that users have made.
