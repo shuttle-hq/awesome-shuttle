@@ -9,8 +9,10 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 <!-- toc -->
 
-- [Official](#official)
-- [Tutorials](#tutorials)
+- [Official Pages](#official-pages)
+- [Official Tutorials](#official-tutorials)
+- [Official Examples and Community Examples](#official-examples-and-community-examples)
+- [Workshops](#workshops)
 - [Built on Shuttle](#built-on-shuttle)
 - [Libraries](#libraries)
 - [Resources](#resources)
@@ -31,6 +33,10 @@ Official Shuttle tutorials to help you write more competent services.
 - [Writing a REST HTTP service with Axum](https://docs.shuttle.rs/tutorials/rest-http-service-with-axum) - A guide on how to write a competent HTTP service in Axum that covers static files, cookies, middleware and more.
 - [Writing a Custom Service](https://docs.shuttle.rs/tutorials/custom-service) - A guide on how to write a web service that implements multiple services (so for example, a Discord bot and router that you can potentially extend and add some background tasks to)
 
+## Official Examples and Community Examples
+
+Find full Shuttle app examples in the [shuttle-examples](https://github.com/shuttle-hq/shuttle-examples) repository and use them as templates for your next project.
+Also check out the [Community Examples](https://github.com/shuttle-hq/shuttle-examples#community-examples) for even more examples.
 
 ## Workshops
 
