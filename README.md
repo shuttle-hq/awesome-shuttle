@@ -54,6 +54,8 @@ A list of cool web-based applications that have been built on Shuttle.
 - [Github API Dashboard](https://github.com/marc2332/ghboard) - A dashboard that tracks your Github contributions. Uses Dioxus as a frontend, powered by the Github GraphQL API. [(Demo)](https://ghboard.shuttleapp.rs/user/demonthos)
 - [no-more-json](https://github.com/beyarkay/no-more-json) - Fed up with massive JSON objects? Just give `no-more-json` an API endpoint and a [`jq`](https://jqlang.github.io/jq/) query. `no-more-json` will apply that query to the JSON returned by the endpoint, and give you the (much smaller) result.
 - [Licensebat](https://github.com/licensebat/licensebat) - A tool to help you verify that your dependencies comply with your license policies
+- [plabayo.tech](https://plabayo.tech/): [open source](https://github.com/plabayo/website) official company website of Plabayo, a FOSS dev and consultancy studio
+- [bckt.xyz](https://bckt.xyz): [open source](https://github.com/plabayo/bucket) link shortener and secret sharing service (for friends of Plabayo)
 
 ## Libraries
 
