@@ -53,6 +53,7 @@ A list of cool web-based applications that have been built on Shuttle.
 - [Rustypaste](https://github.com/orhun/rustypaste) - A simple web service that lets you host and share long plain text. 
 - [Github API Dashboard](https://github.com/marc2332/ghboard) - A dashboard that tracks your Github contributions. Uses Dioxus as a frontend, powered by the Github GraphQL API. [(Demo)](https://ghboard.shuttleapp.rs/user/demonthos)
 - [no-more-json](https://github.com/beyarkay/no-more-json) - Fed up with massive JSON objects? Just give `no-more-json` an API endpoint and a [`jq`](https://jqlang.github.io/jq/) query. `no-more-json` will apply that query to the JSON returned by the endpoint, and give you the (much smaller) result.
+- [Licensebat](https://github.com/licensebat/licensebat) - A tool to help you verify that your dependencies comply with your license policies
 - [plabayo.tech](https://plabayo.tech/): [open source](https://github.com/plabayo/website) official company website of Plabayo, a FOSS dev and consultancy studio
 - [bckt.xyz](https://bckt.xyz): [open source](https://github.com/plabayo/bucket) link shortener and secret sharing service (for friends of Plabayo)
 
@@ -62,7 +63,6 @@ Plugins for Shuttle that users have made.
 
 - [shuttle-diesel-async](https://github.com/aumetra/shuttle-diesel-async) - A plugin for Shuttle that lets you use Diesel as the provided connection instead of SQLx.
 - [shuttle-seaorm](https://github.com/joshua-mo-143/shuttle-seaorm) - A plugin for Shuttle that lets you use SeaORM as the provided connection instead of SQLx.
-- [shuttle-env-vars](https://github.com/robertohuertasm/shuttle-env-vars) - An alternative to [Shuttle Secrets](https://docs.shuttle.rs/resources/shuttle-secrets) that allows you to use `.env` files in your Shuttle projects.
 
 ## Resources
 
